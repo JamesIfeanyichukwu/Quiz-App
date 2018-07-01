@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="q_one_choice1">90</string>
+    <string name="q_one_choice2">45</string>
+    <string name="q_one_choice3">60</string>
+
+    <string name="q_two_choice1">Chord</string>
+    <string name="q_two_choice2">Diameter</string>
+    <string name="q_two_choice3">Segment</string>
+
+    <string name="q_three_choice1">180 degrees</string>
+    <string name="q_three_choice2">90 degrees</string>
+    <string name="q_three_choice3">45 degrees</string>
+
+    <string name="q_four_choice1">8</string>
+    <string name="q_four_choice2">6</string>
+    <string name="q_four_choice3">18</string>
+    <string name="q_four_choice4">32</string>
+
+    <string name="you_scored">Your Total Score is</string>
+
+    <string name="check_if_all_questions_answered">Please make sure you answer all the questions</string>
+
+
+
+    <string name = "question_one">1. How many degrees are there in a Right Angle?</string>
+    <string name = "question_two">2. What name defines a straight line running through the center of a circle?</string>
+    <string name = "question_three">3.The sum of the angles in a triangle is equal to? </string>
+    <string name = "question_four">4. Find the missing numbers: 2, 4, __, 16, __, 64</string>
+    <string name = "question_five">5. Angle on a straight line is 360 degrees. True or False? </string>
+    <string name="reset_button">reset</string>
+    <string name="submit">submit</string>
+    <string name="score_panel_view">Score</string>
+</resources>
